@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  telegram-bot:
+    build: .
+    container_name: ff_tgbot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    command: ["python", "src/bot.py"]
+    extra_hosts:
+      - "forum.ander-services.local:192.168.1.101"
