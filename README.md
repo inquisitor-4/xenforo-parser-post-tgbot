@@ -80,4 +80,4 @@ If you have any questions or suggestions, feel free to open an issue or [contact
 
 ---
 
-Thank you for using the Telegram Bot Finder for XenForo Forum Posts! We hope it provides a valuable and efficient tool for your forum searches.
+Thank you for using the Telegram Bot Finder for XenForo Forum Posts! I hope it provides a valuable and efficient tool for your forum searches.
