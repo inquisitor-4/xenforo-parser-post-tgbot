@@ -39,19 +39,7 @@ Welcome to the Telegram Bot Finder for XenForo Forum Posts! This bot enables you
     ```sh
     docker-compose up -d
     ```
-
-## Project Structure
-
-/xenforo-parser-post-tgbot 
-|-- src
- | |-- bot.py 
-|-- .env 
-|-- Dockerfile 
-|-- requirements.txt 
-|-- docker-compose.yml 
-|-- README.md
-
-
+    
 ## Usage
 
 1. **Start the Bot:**
